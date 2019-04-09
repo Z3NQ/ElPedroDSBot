@@ -1,0 +1,13 @@
+{
+  "name": "el-pedro",
+  "version": "0.0.1",
+  "description": "Vault 420",
+  "main": "bot.js",
+  "author": "Z3NQ / Bart Peters",
+  "dependencies": {
+    "discord-leveling": "^1.0.3",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.4.2",
+    "winston": "^3.2.1"
+  }
+}
